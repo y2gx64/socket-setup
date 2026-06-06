@@ -1,2 +1,5 @@
-express
-lodash
+"dependencies": {
+  "express": "^4.18.2",
+  "react-modeal",
+  
+}
